@@ -1,0 +1,2 @@
+Let's suppose I have the bunch of files saved in my local Desktop which I uploaded to rethinkdb database http://localhost:8080(web interface). how can I connect this outside database to IBM Watson NLU API?
+I tried so many ways but unable can anyone guide me.  I don't want to use any compose.io, I only want to connect my rethinkdb web interface to Watson natural language classifier.
